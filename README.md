@@ -1,12 +1,11 @@
-<h2>Hey there👋 I'm Enes Furkan KOÇ</h2>
+<h2>Hey there👋 I'm Oktay Ağca</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I love learning new technologies, improving myself and producing.\
 🎓 &nbsp;I am currently a senior student at the Department of Computer Engineering at Karabuk University.\
 🌱 &nbsp;I'm on my way to become a web developer.\
-✍️ &nbsp;I am interested in graphic design in my spare time.\
-✉️ &nbsp;You can shoot me an email at ensfrknkc58@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at oktyagca@gmail.com! I'll try to respond as soon as I can.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -34,8 +33,8 @@
 
 <p align="center">
 <a href="https://github.com/ensfrknkc">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ensfrknkc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ensfrknkc&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oktayagca&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oktayagca&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -43,14 +42,14 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/enes-furkan-koç-5bab56172/"><img src="https://img.shields.io/badge/-EnesFurkanKoç-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ensfrknkc58@gmail.com"><img src="https://img.shields.io/badge/-ensfrknkc58@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/enesfurkankoc/"><img src="https://img.shields.io/badge/-@enesfurkankoc-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/oktay-ağca-733baa172/"><img src="https://img.shields.io/badge/-Oktay Ağca-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:oktyagca@gmail.com"><img src="https://img.shields.io/badge/-oktyagca@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/oktyagca/"><img src="https://img.shields.io/badge/-@oktyagca-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 -----
 <!--
-**ensfrknkc/ensfrknkc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**oktayagca/oktayagca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
