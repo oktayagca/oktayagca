@@ -4,7 +4,7 @@
 
 💡 &nbsp;I love learning new technologies, improving myself and producing.\
 🎓 &nbsp;I am currently a senior student at the Department of Computer Engineering at Karabuk University.\
-🌱 &nbsp;I'm on my way to become a web developer.\
+🌱 &nbsp;I'm on my way to become a  android developer.\
 ✉️ &nbsp;You can shoot me an email at oktyagca@gmail.com! I'll try to respond as soon as I can.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
