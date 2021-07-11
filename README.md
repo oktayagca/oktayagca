@@ -10,9 +10,11 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
+![Kotlin]<i class="programming lang-kotlyn"></i>
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=Flutter&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?&style=flat&logo=firebase)&nbsp;
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?&style=flat&logo=C#)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
@@ -21,18 +23,14 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?&style=flat&logo=angular&logoColor=white)&nbsp;
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?&style=flat&logo=unity&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=Flutter&logoColor=white)&nbsp;
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?&style=flat&logo=firebase)&nbsp;
 ![MySql](https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ensfrknkc">
+<a href="https://github.com/oktayagca">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oktayagca&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oktayagca&layout=compact&langs_count=8&theme=algolia"/>
 </a>
