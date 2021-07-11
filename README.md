@@ -10,7 +10,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
-![Kotlin]<i class="programming lang-kotlyn"></i>
+<i class="programming lang-kotlyn"></i>
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=Flutter&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?&style=flat&logo=firebase)&nbsp;
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?&style=flat&logo=C#)&nbsp;
